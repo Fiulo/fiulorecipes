@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Fiulo Recipes</title>
-    <link href="https://fiulo.github.io/fiulorecipes/feed.xml" rel="self" />
-    <link href="https://fiulo.github.io/fiulorecipes" />
+    <link href="https://recipes.fiulo.com/feed.xml" rel="self" />
+    <link href="https://recipes.fiulo.com" />
     <updated>2023-09-29T11:04:10+01:00</updated>
     <author>
         <name>Fiulo</name>
     </author>
-    <id>https://fiulo.github.io/fiulorecipes</id>
+    <id>https://recipes.fiulo.com</id>
 
     <entry>
         <title>Hello world!</title>
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://fiulo.github.io/fiulorecipes/hello-world.html"/>
-        <id>https://fiulo.github.io/fiulorecipes/hello-world.html</id>
+        <link href="https://recipes.fiulo.com/hello-world.html"/>
+        <id>https://recipes.fiulo.com/hello-world.html</id>
 
         <updated>2023-09-29T11:04:10+01:00</updated>
             <summary>
@@ -35,8 +35,8 @@
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://fiulo.github.io/fiulorecipes/sample-page.html"/>
-        <id>https://fiulo.github.io/fiulorecipes/sample-page.html</id>
+        <link href="https://recipes.fiulo.com/sample-page.html"/>
+        <id>https://recipes.fiulo.com/sample-page.html</id>
 
         <updated>2023-09-29T11:04:10+01:00</updated>
             <summary>
@@ -79,20 +79,20 @@
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://fiulo.github.io/fiulorecipes/vegan-tunisian-style-mixed-vegetable-and-chickpea-lablabi-with-harissa-and-bread-recipe.html"/>
-        <id>https://fiulo.github.io/fiulorecipes/vegan-tunisian-style-mixed-vegetable-and-chickpea-lablabi-with-harissa-and-bread-recipe.html</id>
-        <media:content url="https://fiulo.github.io/fiulorecipes/media/posts/3/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b.png" medium="image" />
+        <link href="https://recipes.fiulo.com/vegan-tunisian-style-mixed-vegetable-and-chickpea-lablabi-with-harissa-and-bread-recipe.html"/>
+        <id>https://recipes.fiulo.com/vegan-tunisian-style-mixed-vegetable-and-chickpea-lablabi-with-harissa-and-bread-recipe.html</id>
+        <media:content url="https://recipes.fiulo.com/media/posts/3/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b.png" medium="image" />
 
         <updated>2023-09-29T11:04:10+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fiulo.github.io/fiulorecipes/media/posts/3/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b.png" alt="" />
+                        <img src="https://recipes.fiulo.com/media/posts/3/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b.png" alt="" />
                     Recipe Goodness gracious me, are you in for a treat today! I've got a real winner on my hands with this Vegan Tunisian-Style Mixed Vegetable and Chickpea Lablabi with Harissa and Bread recipe. Not only is it bursting with bold and spicy flavors, but it's&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fiulo.github.io/fiulorecipes/media/posts/3/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://recipes.fiulo.com/media/posts/3/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b.png" class="type:primaryImage" alt="" /></p>
                 <p>
 
   
@@ -102,7 +102,7 @@
   
     
 <p>Goodness gracious me, are you in for a treat today! I've got a real winner on my hands with this Vegan Tunisian-Style Mixed Vegetable and Chickpea Lablabi with Harissa and Bread recipe. Not only is it bursting with bold and spicy flavors, but it's also vegan-friendly and packed with healthy veggies and plant-based protein. This dish is inspired by the traditional Tunisian breakfast soup, Lablabi, which is a fragrant and flavorful chickpea broth typically served with bread and harissa sauce. But today, we're taking things to the next level with a colorful and hearty mix of diced carrots, zucchinis, bell peppers, and more, all simmered together in a rich and savory broth of diced tomatoes and vegetable stock. And let's not forget about the star of the show - the harissa sauce! It's fiery, it's tangy, and it's the perfect complement to this bowl of goodness. So grab your apron, sharpen your knives, and let's get cooking!</p>
-<div style="clear: both"><a href="http://recipes.fiulo.com/wp-content/uploads/sites/3/2023/03/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b.png" style="padding: 1em 0;text-align: left"><img loading="lazy" alt="" border="0" width="320" data-original-height="1024" data-original-width="1024" src="https://fiulo.github.io/fiulorecipes/media/posts/3/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b-300x300.png"  sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://fiulo.github.io/fiulorecipes/media/posts/3/responsive/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b-300x300-xs.png 320w ,https://fiulo.github.io/fiulorecipes/media/posts/3/responsive/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b-300x300-sm.png 480w ,https://fiulo.github.io/fiulorecipes/media/posts/3/responsive/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b-300x300-md.png 768w ,https://fiulo.github.io/fiulorecipes/media/posts/3/responsive/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b-300x300-xl.png 1200w ,https://fiulo.github.io/fiulorecipes/media/posts/3/responsive/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b-300x300-xxl.png 1600w"></a></div>
+<div style="clear: both"><a href="http://recipes.fiulo.com/wp-content/uploads/sites/3/2023/03/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b.png" style="padding: 1em 0;text-align: left"><img loading="lazy" alt="" border="0" width="320" data-original-height="1024" data-original-width="1024" src="https://recipes.fiulo.com/media/posts/3/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b-300x300.png"  sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://recipes.fiulo.com/media/posts/3/responsive/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b-300x300-xs.png 320w ,https://recipes.fiulo.com/media/posts/3/responsive/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b-300x300-sm.png 480w ,https://recipes.fiulo.com/media/posts/3/responsive/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b-300x300-md.png 768w ,https://recipes.fiulo.com/media/posts/3/responsive/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b-300x300-xl.png 1200w ,https://recipes.fiulo.com/media/posts/3/responsive/Fiulo_Vegan_Tunisian-Style_Mixed_Vegetable_and_Chickpea_Lablabi_30a47e7a-4f69-4891-940c-a056ab8c5b4b-300x300-xxl.png 1600w"></a></div>
 <h1>Recipe</h1>
 <h2>Ingredients:</h2>
 <ul>
@@ -192,20 +192,20 @@
         <author>
             <name>Fiulo</name>
         </author>
-        <link href="https://fiulo.github.io/fiulorecipes/vegan-garlic-shrimp-toast.html"/>
-        <id>https://fiulo.github.io/fiulorecipes/vegan-garlic-shrimp-toast.html</id>
-        <media:content url="https://fiulo.github.io/fiulorecipes/media/posts/4/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371.png" medium="image" />
+        <link href="https://recipes.fiulo.com/vegan-garlic-shrimp-toast.html"/>
+        <id>https://recipes.fiulo.com/vegan-garlic-shrimp-toast.html</id>
+        <media:content url="https://recipes.fiulo.com/media/posts/4/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371.png" medium="image" />
 
         <updated>2023-09-29T11:04:10+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fiulo.github.io/fiulorecipes/media/posts/4/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371.png" alt="" />
+                        <img src="https://recipes.fiulo.com/media/posts/4/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371.png" alt="" />
                     Alright, let's get down to business! If you're fed up with bland and boring breakfast options, then you need to try this vegan garlic "shrimp" toast recipe. Trust me, it's a game-changer! This dish is packed with flavor, combining the fragrant and robust taste of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fiulo.github.io/fiulorecipes/media/posts/4/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://recipes.fiulo.com/media/posts/4/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371.png" class="type:primaryImage" alt="" /></p>
                 <p>Alright, let's get down to business! If you're fed up with bland and boring breakfast options, then you need to try this vegan garlic "shrimp" toast recipe. Trust me, it's a game-changer!</p>
 </p>
 <p>This dish is packed with flavor, combining the fragrant and robust taste of garlic with the meaty texture of mushrooms to create an incredible "shrimp" substitute. And let's not forget about the soy sauce, maple syrup, smoked paprika, and black pepper that add depth and complexity to this dish.</p>
@@ -213,7 +213,7 @@
 <p>
 Whether you're a seasoned vegan or a curious foodie, this recipe will not disappoint. It's perfect for breakfast, brunch, or even a late-night snack. So, roll up your sleeves and get ready to create a dish that will tantalize your taste buds like never before.</p>
 </p>
-<div style="clear: both"><a href="http://recipes.fiulo.com/wp-content/uploads/sites/3/2023/03/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371.png" style="padding: 1em 0;text-align: left"><img loading="lazy" alt="" border="0" width="320" data-original-height="1024" data-original-width="1024" src="https://fiulo.github.io/fiulorecipes/media/posts/4/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371-300x300.png"  sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://fiulo.github.io/fiulorecipes/media/posts/4/responsive/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371-300x300-xs.png 320w ,https://fiulo.github.io/fiulorecipes/media/posts/4/responsive/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371-300x300-sm.png 480w ,https://fiulo.github.io/fiulorecipes/media/posts/4/responsive/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371-300x300-md.png 768w ,https://fiulo.github.io/fiulorecipes/media/posts/4/responsive/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371-300x300-xl.png 1200w ,https://fiulo.github.io/fiulorecipes/media/posts/4/responsive/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371-300x300-xxl.png 1600w"></a></div>
+<div style="clear: both"><a href="http://recipes.fiulo.com/wp-content/uploads/sites/3/2023/03/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371.png" style="padding: 1em 0;text-align: left"><img loading="lazy" alt="" border="0" width="320" data-original-height="1024" data-original-width="1024" src="https://recipes.fiulo.com/media/posts/4/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371-300x300.png"  sizes="(min-width: 720px) 603px, calc(85.75vw + 16px)" srcset="https://recipes.fiulo.com/media/posts/4/responsive/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371-300x300-xs.png 320w ,https://recipes.fiulo.com/media/posts/4/responsive/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371-300x300-sm.png 480w ,https://recipes.fiulo.com/media/posts/4/responsive/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371-300x300-md.png 768w ,https://recipes.fiulo.com/media/posts/4/responsive/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371-300x300-xl.png 1200w ,https://recipes.fiulo.com/media/posts/4/responsive/Fiulo_A_photo_of_shrimp_on_toast_at_a_restaurant_Shot_on_Sony_A_a999e000-f45c-4212-83c0-603c0f36c371-300x300-xxl.png 1600w"></a></div>
 </p>
 </p>
 <h1>Recipe:</h1>
